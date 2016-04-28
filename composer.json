@@ -1,11 +1,10 @@
 {
     "name": "cdcchen/imageine-helper",
     "description": "imageine helper",
-    "version": "1.0.0",
     "keywords": ["imageine", "php image", "imageine helper", "gd2", "imagick", "gmagick"],
     "type": "php-lib",
     "homepage": "https://github.com/cdcchen/imageine-helper",
-    "time": "2016-04-13 22:05:01",
+    "time": "2016-04-28 22:05:01",
     "license": "BSD-3-Clause",
     "support": {
         "issues": "https://github.com/cdcchen/imageine-helper/issues",
